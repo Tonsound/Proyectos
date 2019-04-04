@@ -25,5 +25,5 @@ Se sugiere el uso de Prestashop, no se acepta shoppify, magento ni wix.
 - Los items del proyecto deben estar especificados en cápsulas de máximo 4 horas
 - Una vez cumplido el deadline acordado mutuamente, se esperarán 3 días antes de dar de baja el proyecto
 y no se cancelaran las horas trabajadas si el proyecto no está finalizado.
-- Subir presupuesto con su nombre completo y un request a la rama Web Clique de este repositorio
+- Subir presupuesto con su nombre completo y un request a la rama Web_Clique de este repositorio
 
